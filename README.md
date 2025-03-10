@@ -3,6 +3,6 @@
 
 model weights file: weights.pt
 
-player and referee tracking, finetuned a YOLOv11 model trained on the COCOn dataset \n
+player and referee tracking, finetuned a YOLOv11 model trained on the COCOn dataset and
 annotated ~500 images across 5 NCAA ACC full game broadcasts, the results are okay.
 first time working with computer vision!
